@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34844124133",
+    "firebase_url": "https://dategame-de315.firebaseio.com",
+    "project_id": "dategame-de315",
+    "storage_bucket": "dategame-de315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34844124133:android:358479b11b9914cf",
+        "android_client_info": {
+          "package_name": "com.example.dategame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34844124133-da0j6ibbh5iufulpgammjf8ocb7f5cqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dategame",
+            "certificate_hash": "58cc27e6f5b4c322f2941f1734336177a7093378"
+          }
+        },
+        {
+          "client_id": "34844124133-43m9r8l1piiogifgh01tc0tfmgqhgqdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRHk-FVcgqMkf1jvnjyjqEOPAVar-cYUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34844124133-43m9r8l1piiogifgh01tc0tfmgqhgqdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
