@@ -24,6 +24,8 @@
         android:layout_margin="200dp"
         android:text="@string/date_game"
         android:textSize="40dp"
+        android:textColor="@color/colorFont"
         android:textStyle="bold" />
+
 
 </android.support.design.widget.CoordinatorLayout>
