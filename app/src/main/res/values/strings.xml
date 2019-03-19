@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DateGame</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="date_game">Date Game</string>
 </resources>
